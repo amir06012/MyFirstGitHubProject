@@ -1,4 +1,4 @@
 # MyFirstGitHubProject
 This is my first github project.
-Changing into the branch
+This time merge changes from branch to master but by keeping master as it is 
 
